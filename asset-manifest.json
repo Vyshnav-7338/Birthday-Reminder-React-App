@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Birthday-Reminder-React-App/static/css/main.8bee4867.css",
+    "main.js": "/Birthday-Reminder-React-App/static/js/main.7f055677.js",
+    "static/js/787.90b5dea5.chunk.js": "/Birthday-Reminder-React-App/static/js/787.90b5dea5.chunk.js",
+    "static/media/Vyshnav.jpg": "/Birthday-Reminder-React-App/static/media/Vyshnav.1ebb17ca698c148e1114.jpg",
+    "static/media/anju.jpeg": "/Birthday-Reminder-React-App/static/media/anju.55a710768fb4c6520ebd.jpeg",
+    "static/media/sandra.jpeg": "/Birthday-Reminder-React-App/static/media/sandra.d610db3e09c2575ff55d.jpeg",
+    "static/media/kelwin.jpg": "/Birthday-Reminder-React-App/static/media/kelwin.3fc126a93a35c199781b.jpg",
+    "static/media/arjun.jpg": "/Birthday-Reminder-React-App/static/media/arjun.a9dd3e7824ba101f5561.jpg",
+    "index.html": "/Birthday-Reminder-React-App/index.html",
+    "main.8bee4867.css.map": "/Birthday-Reminder-React-App/static/css/main.8bee4867.css.map",
+    "main.7f055677.js.map": "/Birthday-Reminder-React-App/static/js/main.7f055677.js.map",
+    "787.90b5dea5.chunk.js.map": "/Birthday-Reminder-React-App/static/js/787.90b5dea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.7f055677.js"
+  ]
+}
